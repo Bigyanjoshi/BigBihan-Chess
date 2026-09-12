@@ -1,0 +1,21 @@
+{
+  "name": "chesscom-clone",
+  "version": "2.0.0",
+  "description": "Authentic Chess.com clone with multi-premoves, evaluation bar, and LAN/Online multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js",
+    "server": "node server.js"
+  },
+  "keywords": [
+    "chess",
+    "chesscom",
+    "premoves",
+    "eval-bar",
+    "multiplayer"
+  ],
+  "author": "DeepMind",
+  "license": "MIT"
+}
